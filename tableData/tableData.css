@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+body{
+    font-family: sans-serif;
+    background-color:rgba(145, 145, 89, 0.5);
+}
+h4{
+background-color: white;
+    border: solid white;
+    border-radius: 2px;
+    box-shadow: 0px 3px 2px rgb(185, 184, 184);
+    font: 20px black;
+    font-family: sans-serif;
+    font-weight: bold;
+    height: 50px;
+    margin:  0px;
+    padding: 10px 20px;
+}
+p{
+    margin:  10px 4px;
+    padding: 10px 20px; 
+}
+
+.input{
+    margin:  0px 20px 20px;
+    padding: 10px 20px; 
+    border: white;
+    border-left:7px solid rgba(44, 4, 21, 0.897);
+}
+
+
+table{
+    margin: 0px  18px 20px;
+    border: 2px solid  rgba(44, 4, 21, 0.897);;
+}
+th{
+   
+    padding: 10px;
+    background-color: rgba(44, 4, 21, 0.897);
+    color: white;
+    
+}
+#th1{
+   
+    width: 200px;
+    
+
+}
+#th2{
+    width: 500px;
+}
+.even, #ans2, #ans4, #ans6{
+    margin: 10px 0px;
+    margin-right: 0px;
+    background-color: white;
+    height: 30px;
+    padding: 5px;
+    font: 15px sans-serif;
+    
+   
+}
+.odd{
+    height: 30px;
+    padding: 5px;
+    font: 15px sans-serif;
+   
+}
